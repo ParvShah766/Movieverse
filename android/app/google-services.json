@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "713551224124",
+    "project_id": "movieverse-d3145",
+    "storage_bucket": "movieverse-d3145.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713551224124:android:eee05b82e3be1016631239",
+        "android_client_info": {
+          "package_name": "com.example.movieverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ5SKJTtq4ZQj8RAz56PABkwzYdyJbKdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713551224124:android:da8af28fa294b2d1631239",
+        "android_client_info": {
+          "package_name": "com.jp.movieverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ5SKJTtq4ZQj8RAz56PABkwzYdyJbKdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
